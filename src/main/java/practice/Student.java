@@ -1,7 +1,7 @@
 package practice;
 
 public class Student {
-    int a;
+    int c;
     static int b;
 
     Student () {
@@ -9,7 +9,8 @@ public class Student {
     }
 
     public void showData() {
-        System.out.println("Value of a = " + a);
+        System.out.println("Value of a = " + c);
         System.out.println("Value of b = " + b);
     }
 }
+
